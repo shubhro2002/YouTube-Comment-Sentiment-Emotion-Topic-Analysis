@@ -74,7 +74,7 @@ This project analyzes YouTube comments to extract insights about audience sentim
 ## Comments by Day
 <img width="1062" height="662" alt="image 5" src="https://github.com/user-attachments/assets/a631dc2f-b335-48b8-a5ae-4138969633d6" />
 
-## 
+## Keyword per Sentiment
 <img width="611" height="643" alt="image 6" src="https://github.com/user-attachments/assets/47ffeda9-341c-4e3d-83b0-f3a711ee5557" />
 
 
