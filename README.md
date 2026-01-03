@@ -6,14 +6,14 @@ This project analyzes YouTube comments to extract insights about audience sentim
 
 ## 🚀 Features
 
-- ✅ Automated data collection from YouTube API
-- ✅ Data cleaning & preprocessing pipeline (text, authors, replies, timestamps)
-- ✅ Sentiment analysis (discrete + thread-aware)
-- ✅ Sarcasm detection with wordclouds for sarcastic comments
-- ✅ Emotion classification using Google’s GoEmotions model
-- ✅ Topic modeling with BERTopic
-- ✅ Keyword extraction with KeyBERT per sentiment class
-- ✅ Rich visualizations (wordclouds, bar charts, emotion/sentiment distributions)
+- Automated data collection from YouTube API
+- Data cleaning & preprocessing pipeline (text, authors, replies, timestamps)
+- Sentiment analysis (discrete + thread-aware)
+- Sarcasm detection with wordclouds for sarcastic comments
+- Emotion classification using Google’s GoEmotions model
+- Topic modeling with BERTopic
+- Keyword extraction with KeyBERT per sentiment class
+- Rich visualizations (wordclouds, bar charts, emotion/sentiment distributions)
 
 ## 🛠️ Tech Stack
 
