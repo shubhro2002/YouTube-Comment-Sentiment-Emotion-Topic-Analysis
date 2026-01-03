@@ -59,7 +59,24 @@ This project analyzes YouTube comments to extract insights about audience sentim
 
 # 📷 Visuals
 
-- 
+## Topic Score
+<img width="1113" height="482" alt="image 1" src="https://github.com/user-attachments/assets/61cc0d6c-d9cb-494a-9936-6cee152c6030" />
+
+## Top 20 Most Discussed Threads
+<img width="1141" height="747" alt="image 2" src="https://github.com/user-attachments/assets/9b03dbc6-0873-4f0f-8aa9-29d131c1342e" />
+
+## Sentiment by Thread
+<img width="1241" height="737" alt="image 3" src="https://github.com/user-attachments/assets/c87be315-c2a4-4ca8-a9ee-f5d2a8928123" />
+
+## Number of Comments over Time
+<img width="1221" height="652" alt="image 4" src="https://github.com/user-attachments/assets/3bf6ef8d-dcad-4be1-b758-036cea30a830" />
+
+## Comments by Day
+<img width="1062" height="662" alt="image 5" src="https://github.com/user-attachments/assets/a631dc2f-b335-48b8-a5ae-4138969633d6" />
+
+## 
+<img width="611" height="643" alt="image 6" src="https://github.com/user-attachments/assets/47ffeda9-341c-4e3d-83b0-f3a711ee5557" />
+
 
 # 📈 Future Work
 
